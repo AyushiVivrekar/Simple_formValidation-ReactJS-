@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.card{ 
+  
+    background: linear-gradient(rgb(159, 187, 234), white);
+    border: none;
+    padding: 30px 5px 5px 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.form-group label{
+    font-weight: 700;
+    color: rgb(70, 70, 71);
+    font-size: 20px;
+}
+.submitBtn{
+    background: linear-gradient(rgb(194, 242, 194), rgb(36, 148, 57));
+    color: aliceblue;
+    border: none;
+    width: 100%;
+}
